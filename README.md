@@ -1,4 +1,4 @@
-# plotting_codes
+# plotting_scripts
 Useful plotting scripts with matplotlib - Python
 
 1. Tool Wear Conditions      @related project: Werkzeugmaschinenlabor WZL der RWTH Aachen
